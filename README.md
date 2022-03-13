@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @capricieuxV
 - 👀 I’m interested in music, art, vehicles, sports.. a lot of things
-- 🌱 I’m currently learning robotcics and computer science
+- 🌱 I’m currently learning robotics and computer science
 - 💞️ I’m looking to collaborate on Hackthon
 - 📫 How to reach me: capricieuxyue@gmail.com
 
